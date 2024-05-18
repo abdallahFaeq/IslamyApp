@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_quran"
+        android:enabled="true"
+        android:icon="@drawable/holy"
+        android:title="Quran"/>
+    <item
+        android:id="@+id/menu_azkar"
+        android:enabled="true"
+        android:icon="@drawable/zekr"
+        android:title="Azkar"/>
+
+    <item
+        android:id="@+id/menu_radio"
+        android:enabled="true"
+        android:icon="@drawable/radio2"
+        android:title="Radio"/>
+
+    <item
+        android:id="@+id/menu_ahadeth"
+        android:enabled="true"
+        android:icon="@drawable/muhammad"
+        android:title="Ahadeeth"/>
+
+    <item
+        android:id="@+id/menu_prayers"
+        android:enabled="true"
+        android:icon="@drawable/prayer_times"
+        android:title="Prayer Time"/>
+</menu>
